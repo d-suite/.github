@@ -1,4 +1,4 @@
-<img alt="d-suite" src="https://raw.githubusercontent.com/d-suite/art/main/suite_long@vector.svg" style="height:45px; width: auto;"> <img alt="wip" src="https://raw.githubusercontent.com/d-suite/art/main/wip.svg" style="height:45px; width: auto;">
+<img alt="d-suite" src="https://raw.githubusercontent.com/d-suite/art/main/suite_long@vector.svg" style="height:36px; width: auto;"> <img alt="wip" src="https://raw.githubusercontent.com/d-suite/art/main/wip.svg" style="height:36px; width: auto;">
 
 d-suite is a collection of software and services founded and hosted by [@intergrav](https://github.com/intergrav)
 
