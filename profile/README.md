@@ -4,7 +4,7 @@ d-suite is a collection of software and services founded and hosted by [@intergr
 
 ### software
 
-- [bot](https://github.com/d-suite/bot) is the monorepo for d-suite discord bots (maintainers: [@intergrav](https://github.com/intergrav))
+- [bot](https://github.com/d-suite/bot) is the source code for d-suite Discord bot (maintainers: [@intergrav](https://github.com/intergrav))
 - [art](https://github.com/d-suite/art) is the artwork for d-suite (maintainers: [@intergrav](https://github.com/intergrav))
 
 ### services
