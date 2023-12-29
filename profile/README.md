@@ -9,4 +9,4 @@ d-suite is a collection of software and services founded and hosted by [@intergr
 
 ### services
 
-in the future, we plan to provide a Forgejo instance and possibly a Mastodon/Fediverse instance
+we have a lot of ideas but we plan on possibly hosting a Mastodon/Fediverse instance in the future™ - no promises though. it's unlikely that we'll be hosting a git instance since there are many drawbacks to that
